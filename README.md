@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a real world app where users play a game to earn money<br>👯 I’m looking to collaborate on other real work projects<br>🌱 I’m currently learning typescript<br>⚡ Fun fact: I like simplicity and order
+🔭 I’m currently working on a real world app where users play a game to earn money<br>👯 I’m looking to collaborate on other real work projects<br>🌱 I may be in need of a job<br>⚡ Fun fact: I like simplicity and order
 
 
 ## 🌐 Socials:
